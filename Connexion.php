@@ -10,7 +10,7 @@
     <form action="inscription-traitement.php" method="POST">
         <input type="email" name="" id="" placeholder="email"><br> <br>
         <input type="password" name="" id="" placeholder="Password"><br><br>
-        <button>Connecter</button>
+        <button>Connexion</button>
     </form>
 </body>
 </html>
